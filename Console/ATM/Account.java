@@ -1,4 +1,4 @@
-package Section12.ATM;
+package ATM;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
