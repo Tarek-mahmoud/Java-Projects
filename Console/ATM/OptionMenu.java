@@ -1,4 +1,4 @@
-package Section12.ATM;
+package ATM;
 
 import java.io.IOException;
 import java.text.DecimalFormat;
